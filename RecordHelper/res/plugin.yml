@@ -1,0 +1,5 @@
+name: RecordHelper
+main: me.jackyliao.recordhelper.RecordHelper
+author: jackyliao123
+version: 0.1
+depend: [ProtocolLib]
